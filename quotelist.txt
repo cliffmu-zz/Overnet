@@ -1,0 +1,3 @@
+"quote","name","date","author","newssource","ratingsource","ratingurl","rating"
+"If you were a Muslim, you could come in, if you were a Christian, it was impossible.","Donald Trump","01272017","Linda Qiu","CBN","Politifact","http://www.politifact.com/truth-o-meter/statements/2017/jan/29/donald-trump/no-evidence-trump-claim-it-was-impossible-syrian-c/","1"
+
